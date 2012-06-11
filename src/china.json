@@ -1,0 +1,37 @@
+{
+    "name": "中国",
+    "pinyin": "zhongguo",
+    "provinces": [
+        {
+            "name": "北京",
+            "pinyin": "beijing",
+            "districts": [
+                {
+                    "name": "朝阳区"
+                }
+            ]
+        },
+        {
+            "name": "上海",
+            "pinyin": "shanghai",
+            "districts": [
+                {
+                    "name": "闸北区"
+                }
+            ]
+        },
+        {
+            "name": "江苏",
+            "cities": [
+                {
+                    "name": "南京",
+                    "districts": [
+                        {
+                            "name": "宣武区"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
