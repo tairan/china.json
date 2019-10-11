@@ -1,0 +1,14 @@
+{
+  "name": "china.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tairan/china.json.git",
+  "author": "Tairan Wang <tairan.wang@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
